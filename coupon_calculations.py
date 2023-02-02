@@ -3,6 +3,7 @@ Program: coupon_calculations
 Author: Michael Mack
 Last Date Modified: 2-1-23
 
+The purpose of this program is total the price of online order using nested if statements.
 """
 # import constant
 import const
